@@ -1,19 +1,25 @@
 body{
   background-color: #EAF6F6;
 }
+.info{
+  font-family: 'Merriweather', serif;
+}
+.contact{
+  font-family: 'Lilita One', cursive;
+}
 h1{
-  color: #66BFBF;
+  color: #379237;
+  font-family: 'Sacramento', cursive;
 }
 h3{
-  color: #66BFBF;
+  color: #379237;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
 }
 img{
-  width: 50%
+  width: 150px
 }
 hr{
   border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
+  border-top-style: none;
 }
